@@ -9,7 +9,7 @@ Upon running the program, the user is prompted to input the values of the follow
 5. Distance (s)
 
 if the user inputs values for only 2 or less variables then the program would warn them that 
-there is not information to calculate the other values.
+there is not enough information to calculate the remaining variables.
 
 When the user provides 3 inputs, the program then automatically calculates the remaining two unknown vairables.
 
